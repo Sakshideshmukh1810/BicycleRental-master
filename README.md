@@ -51,3 +51,35 @@
    jdk
 
    mysql
+   
+# ScreenShots:
+
+  # 1)Login page :
+
+
+  ![image](https://github.com/user-attachments/assets/32ab4c75-342e-4b9c-8987-70e0720b78a0)
+
+  # 2)Add Bicycle :
+
+
+  ![image](https://github.com/user-attachments/assets/ca1ec019-065e-4544-b9f7-e4e002f88c13)
+
+  # 3)Available Bicycle :
+
+
+  ![image](https://github.com/user-attachments/assets/0039c06c-ff4a-4c52-8495-3b903ee1bf8f)
+
+
+  # 4)Employee Registration :
+
+
+  ![image](https://github.com/user-attachments/assets/becf7940-cb9f-43d8-959d-bb99b57faeea)
+
+  # 5)Reserved Bicycle :
+
+  ![image](https://github.com/user-attachments/assets/4c85b531-44ed-4b11-a3dc-3e74159fcde4)
+
+
+
+
+
